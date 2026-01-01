@@ -1,4 +1,4 @@
-<h1 align="center">🎧 <b>YukkiMusic</b></h1>
+<h1 align="center">🎧 <b>SmMusic</b></h1>
 
 <p align="center">
   <i>⚡ A blazing-fast, reliable, and feature-packed Telegram bot for streaming music in group voice chats — built with Go.</i>
@@ -14,7 +14,7 @@
   <a href="../LICENSE">
     <img src="https://img.shields.io/badge/License-GPLv3-FF3860?style=for-the-badge&logo=gnu&labelColor=000000&logoColor=white" alt="License: GPLv3">
   </a>
-  <a href="https://github.com/TheTeamVivek/YukkiMusic/stargazers">
+  <a href="https://github.com/teamsuraj2/SM/stargazers">
     <img src="https://img.shields.io/github/stars/TheTeamVivek/YukkiMusic?style=for-the-badge&label=Stars&labelColor=000000&color=FFD700&logo=github&logoColor=white" alt="GitHub Stars">
   </a>
   <a href="https://github.com/TheTeamVivek/YukkiMusic/fork">
@@ -74,7 +74,7 @@
 
 Click the button below to deploy **YukkiMusic** instantly on Heroku:
 
-<a href="https://heroku.com/deploy?template=https://github.com/TheTeamVivek/YukkiMusic">
+<a href="https://heroku.com/deploy?template=https://github.com/teamsuraj2/SM">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 
