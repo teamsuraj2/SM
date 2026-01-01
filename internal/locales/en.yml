@@ -1,23 +1,23 @@
 name: "🇺🇸 English"
 
 # buttons
-ADD_ME_BTN: "⚡ Add Me to Your group"
-BROADCAST_CANCEL_BTN: "🚫 Cancel Broadcast"
+ADD_ME_BTN: "ᴀᴅᴅ ᴍᴇ ᴛᴏ to ʏᴏᴜʀ ɢʀᴏᴜᴘ"
+BROADCAST_CANCEL_BTN: "🚫 ᴄᴀɴᴄᴇʟ ʙʀᴏᴀᴅᴄᴀsᴛ"
 CLOSE_BTN: "Close"
-DOWNLOAD_CANCEL_BTN: "🚦 Cancel Downloading"
-GC_HELP_BTN: "📒 Commands"
+DOWNLOAD_CANCEL_BTN: "🚦 ᴄᴀɴᴄᴇʟ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ"
+GC_HELP_BTN: "ᴄᴏᴍᴍᴀɴᴅs"
 
-START_HELP_BTN: "❓ Help & Commands"
+START_HELP_BTN: "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs"
 
-UPDATES_BTN: "📢 Updates"
-SUPPORT_BTN: "💬 Support"
+UPDATES_BTN: "ᴜᴘᴅᴀᴛᴇs"
+SUPPORT_BTN: "sᴜᴘᴘᴏʀᴛ"
 
-HELP_ADMINS_BTN: "🛠 Admins"
-HELP_PUBLIC_BTN: "🌍 Public"
-HELP_OWNER_BTN: "👑 Owner"
-HELP_SUDOERS_BTN: "⚡ Sudoers"
+HELP_ADMINS_BTN: "ᴀᴅᴍɪɴs"
+HELP_PUBLIC_BTN: "ᴘᴜʙʟɪᴄ"
+HELP_OWNER_BTN: "ᴏᴡɴᴇʀ"
+HELP_SUDOERS_BTN: "sᴜᴅᴏᴇʀs"
 
-BACK_BTN: "⬅️ Back"
+BACK_BTN: "ʙᴀᴄᴋ"
 
 # basically this string used in /command [bool]
 invalid_bool: "⚠️ <b>Invalid value.</b>\nUse 'enable' or 'disable'."
