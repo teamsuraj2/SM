@@ -1,9 +1,9 @@
 {
-    "name": "YukkiMusic",
+    "name": "SmMusic",
     "description": "A Telegram bot that streams music into group voice chats with seamless playback and control.",
     "keywords": ["telegram", "bot", "music", "go", "voice-chat"],
-    "repository": "https://github.com/TheTeamVivek/YukkiMusic",
-    "website": "https://github.com/TheTeamVivek/YukkiMusic",
+    "repository": "https://github.com/teamsuraj2/SM",
+    "website": "https://github.com/teamsuraj2/SM",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -53,7 +53,7 @@
         },
         "DURATION_LIMIT": {
             "description": "The maximum duration of a track in seconds.",
-            "value": "4200",
+            "value": "42009887",
             "required": false
         },
         "LEAVE_ON_DEMOTED": {
@@ -63,7 +63,7 @@
         },
         "QUEUE_LIMIT": {
             "description": "The maximum number of tracks allowed in the queue.",
-            "value": "7",
+            "value": "100",
             "required": false
         },
         "START_IMG_URL": {
@@ -73,12 +73,12 @@
         },
         "SUPPORT_CHAT": {
             "description": "The URL of your support chat.",
-            "value": "https://t.me/TheTeamVk",
+            "value": "https://t.me/TwsSupportGroup",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "The URL of your support channel.",
-            "value": "https://t.me/TheTeamVivek",
+            "value": "https://t.me/TwsAssociation",
             "required": false
         },
         "COOKIES_LINK": {
